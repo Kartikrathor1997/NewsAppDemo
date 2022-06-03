@@ -1,0 +1,3 @@
+export const GET_API_DATA_START = 'api/GET_API_DATA_START'
+export const GET_API_DATA_SUCCESS = 'api/GET_API_DATA_SUCCESS'
+export const GET_API_DATA_FAIL = 'api/GET_API_DATA_FAIL'
